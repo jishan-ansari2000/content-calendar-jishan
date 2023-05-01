@@ -1,0 +1,38 @@
+.cc-form-group {
+  padding: 20px 50px;
+}
+
+#cc_form div {
+  margin: 16px 0;
+}
+
+#cc_form div > label {
+  display: inline-block;
+  min-width: 100px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#cc_form div > input {
+  display: inline-block;
+  width: 180px;
+  font-size: 14px;
+}
+
+#cc_form div > select {
+  display: inline-block;
+  width: 180px;
+  font-size: 14px;
+}
+
+#cc_form div > select:disabled {
+  opacity: 1;
+  background-color: #fff;
+}
+
+.wrap .cc-title {
+  margin: 24px 0 16px 0;
+  font-size: 24px;
+  font-weight: 500;
+  color: #333;
+}
